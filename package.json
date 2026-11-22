@@ -1,0 +1,4 @@
+{"name":"nova-nexus-of-valor-and-ascension","version":"2.25.0","private":true,
+ "scripts":{"web":"python3 build_web.py","serve":"python3 build_web.py && npx serve dist","android":"python3 build_web.py && npx cap add android && npx cap sync android","ios":"python3 build_web.py && npx cap add ios && npx cap sync ios","desktop":"python3 build_web.py && npx tauri build"},
+ "dependencies":{"@capacitor/core":"^6.2.0","@capacitor/app":"^6.0.0"},
+ "devDependencies":{"@capacitor/cli":"^6.2.0","@capacitor/android":"^6.2.0","@capacitor/ios":"^6.2.0","@tauri-apps/cli":"^2.0.0"}}

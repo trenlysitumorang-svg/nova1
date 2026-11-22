@@ -1,0 +1,1 @@
+{"productName":"NOVA","version":"2.25.0","identifier":"com.nexusofvalor.nova","build":{"frontendDist":"../dist"},"app":{"windows":[{"title":"NOVA — Nexus of Valor and Ascension","width":1280,"height":720,"fullscreen":false,"resizable":true}],"security":{"csp":null}},"bundle":{"active":true,"targets":"all","icon":["icons/icon-512.png"]}}
